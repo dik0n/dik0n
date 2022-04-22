@@ -4,6 +4,7 @@
 - 🔥 Red Team
 - ✍️ Aluno da Desec Security (Pentest Profissional / Pentest Experience)
 - 🔋 Progresso para tirar DCPT
+## Vou começar a produzir e jogar meus projetos por aqui 😁 ##
 
 <div align="center">
   <a href="https://github.com/dik0n">
