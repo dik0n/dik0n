@@ -3,6 +3,7 @@
 - 💻 Sou estudante de Segurança da Informação
 - 🔥 Red Team
 - ✍️ Aluno da Desec Security (Pentest Profissional / Pentest Experience)
+- Em formação CAP - ACADI-TI
 - 🔋 Progresso para tirar DCPT
 ## Vou começar a produzir e jogar meus projetos por aqui 😁 ##
 
